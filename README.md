@@ -29,16 +29,16 @@
 
 ### About
 
-Kubesimplify Ambassador program helps individuals to showcase their skills, help the community and grow together. 
+Kubesimplify Ambassador program helps individuals to showcase their skills, help the community and grow together.
 
 ### Benefits
 
-* Monthly Ambassador meeting  with Saiyam Pathak([@SaiyamPathak](https://twitter.com/SaiyamPathak))
+* Monthly Ambassador meeting  with Saiyam Pathak([@SaiyamPathak](https://twitter.com/SaiyamPathak)).
 * Exclusive access to workshops.
-* Mini projects to enhance your skills
-* Dedicated Ambassadors discord channel
-* Blogging and Video creation opportunity for Kubesimplify
-*CKS book by Saiyam
+* Mini projects to enhance your skills.
+* Dedicated Ambassadors discord channel.
+* Blogging and Video creation opportunity for Kubesimplify.
+* [CKS book](https://saiyampathak.gumroad.com/l/cksbook) by Saiyam Pathak.
 
 ### Roles
 
@@ -47,7 +47,7 @@ Kubesimplify Ambassador program helps individuals to showcase their skills, help
 * Writer - Write blogs and documentation.
 * Editor - Edit, review and publish blogs.
 * Designer - All things design.
-* YouTuber - Creating/editing videos for Kubesimplify.
+* YouTuber - Create videos, editing them or do both.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Responsibilities
@@ -62,10 +62,10 @@ Kubesimplify Ambassador program helps individuals to showcase their skills, help
 ### Apply 
 Want to join us in helping the community? Apply now. 
 
-[Kubesimplify Ambassador Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfsiMZoKAC4eulEDNVnTOaujoortij2e9goZv355N_nTdjCjA/viewform)
+[Kubesimplify Ambassador Application Form](https://forms.gle/JNMWzSaLYGBVEp6W7)
 
 ### FAQ
-<details> <summary>1. I applied recently but did not recive a response.</summary>
+<details> <summary>1. I applied recently but did not receive a response.</summary>
    <p>We try to respond back as quick as possible. But based on the number of applicants at any given time, this might take weeks or months</p>
 </details>
 
